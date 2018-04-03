@@ -5,4 +5,4 @@ YY is bad
 Is YY really bad?
 No
 
-VScode
+VScode is trash
